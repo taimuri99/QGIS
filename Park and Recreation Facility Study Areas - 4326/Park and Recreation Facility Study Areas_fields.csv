@@ -1,0 +1,12 @@
+field,name
+FIELD_1,_id
+FIELD_2,OBJECTID
+FIELD_3,project_name
+FIELD_4,project_url
+FIELD_5,status
+FIELD_6,project_type
+FIELD_7,image
+FIELD_8,description
+FIELD_9,image_alt_text
+FIELD_10,takedown_date
+geometry,geometry
